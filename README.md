@@ -7,7 +7,7 @@
 
 sudo apt-get install network-manager libnss3-tools jq xsel
 
-sudo apt-get install php7.1-cli php7.1-curl php7.1-mcrypt php7.1-xml php7.1-zip php7.1-mbstring php7.1-mysql php7.1-pgsql
+sudo apt-get install php7.1-cli php7.1-curl php7.1-mcrypt php-xml php7.1-zip php-mbstring php7.1-mysql php7.1-pgsql
 
 
 sudo add-apt-repository -y ppa:nginx/stable
